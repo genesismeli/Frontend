@@ -1,0 +1,57 @@
+header {
+    background-color: rgba(250, 128, 114, 0.685);
+
+}
+img {
+    position: center;
+    height: 147px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(231, 109, 96);
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 10px;
+    font-size: 30px;
+
+}
+h2 {
+    margin-left: auto;
+    margin-right:auto;
+    width: 1041px;
+    height: 30px;
+    left: 255px;
+    top: 489px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(231, 109, 96);
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+ul {
+    margin-left: 12,7px;
+    height: 50px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Texto-en-negrita {
+    font-weight: bold;
+
+}
+footer{
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgba(250, 128, 114, 0.685);
+    text-align: center;
+    letter-spacing: 7px;
+}
