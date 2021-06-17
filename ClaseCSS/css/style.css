@@ -1,5 +1,11 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../Fonts/Roboto/Roboto-Medium.ttf');
+}
 header {
     background-color: rgba(250, 128, 114, 0.685);
+   background-image: url('../img/fondo.jpg');
+
 
 }
 img {
@@ -13,6 +19,7 @@ img {
 
 }
 h1{
+    font-family: 'Roboto', sans-serif;
     margin-left: auto;
     margin-right: auto;
     height: 30px;
@@ -25,6 +32,7 @@ h1{
 
 }
 h2 {
+    font-family: 'Roboto', sans-serif;
     margin-left: auto;
     margin-right:auto;
     width: 1041px;
