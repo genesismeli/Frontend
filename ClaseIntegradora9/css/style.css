@@ -1,0 +1,80 @@
+a{
+    outline: none;
+    text-decoration: none;
+    color: rgb(235, 228, 224);
+}
+header {
+    background-color: rgb(92, 69, 69);
+    color: rgb(245, 236, 200);
+    font-size: 15px;
+    line-height: 23px;
+    text-decoration: none;
+
+}
+
+.Presentacion {
+    background-repeat: no-repeat;
+    background-color:#F0A83E;
+    font-size: 20px;
+    line-height: auto;
+    text-decoration: none;
+}
+
+.TenerteAquí {
+    text-align: center;
+    font-size: 40px;
+}
+
+.FotoPrincipal {
+    background-image: url('../img/actividad2.png');
+    background-size: cover;
+    width: auto;
+    height: 410px;
+    
+
+}
+
+h1{
+    font-size: 35px;
+}
+.Descuento {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    line-height: 70px;
+}
+
+.Comederos {
+    text-align: center;
+    font-size: 25px;
+    line-height: 33px;
+    background-color: #F0A83E;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    width: 250px;
+    border-radius: 10px;
+}
+
+
+div{
+    text-align: center;
+   
+    }
+.Imagen{
+    border:2px solid black;
+    border-radius: 10px;
+}
+
+.Derechos {
+    background-color: #F0A83E;
+}
+footer {
+    background-color: rgb(92, 69, 69);
+    color: rgb(235, 228, 224);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    line-height: 50px;
+
+}
