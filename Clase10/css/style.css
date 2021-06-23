@@ -1,0 +1,203 @@
+@font-face {
+    src: url('../Benne/Benne-Regular.ttf');
+    font-family: 'Benne';
+}
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.Color-azul{
+    background-color: hsl(169, 76%, 46%);
+    padding: 5px;
+   
+}
+
+.Color-Celeste{
+    
+    background-color: #00669F;
+    position: fixed;
+    z-index: 1;
+    padding: 20px;
+    width: 1350px;  
+    font-family: 'Benne',sans-serif;
+    
+}
+
+.Seccion1 {
+    background-color: #7c6868;
+    position: relative;
+    top: -102px;
+    left: 100px;
+   border-bottom: solid black;
+
+}
+.Fondo {
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 32px;
+    top: 291px;
+    border-radius: 20px;
+}
+
+.Perfil {
+    position: absolute;
+    width: 120px;
+    height: 118px;
+    left: 122px;
+    top: 419px;
+    border-radius: 70px;
+}
+
+.Titulo{
+    position: absolute;
+    width: 122px;
+    height: 35px;
+    left: 121px;
+    top: 557px;
+    font-family: 'Benne',sans-serif;
+}
+.Texto{
+    position: absolute;
+    width: 267px;
+    height: 113px;
+    left: 48px;
+    top: 602px;
+    font-size: 20px;
+    font-family: 'Benne',sans-serif;
+}
+
+.Boton{
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 117px;
+    top: 900px;
+    background-color: #00669F;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.Seccion2 {
+    position: relative;
+    top:-102px;
+    left:180px;
+}
+.Fondo2 {
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 362px;
+    top: 293px;
+    border-radius: 20px;
+}
+
+.Perfil2 {
+    position: absolute;
+    width: 122px;
+    height: 122px;
+    left: 451px;
+    top: 419px;
+    border-radius: 70px;
+}
+
+.Titulo2 {
+    position: absolute;
+    width: auto;
+    height: 80px;
+    left: 427px;
+    top: 559px;
+    font-family: 'Benne',sans-serif;
+}
+
+.Texto2 {
+    position: absolute;
+    width: 267px;
+    height: 113px;
+    left: 378px;
+    top: 604px;
+    font-size: 20px;
+    font-family: 'Benne',sans-serif;
+}
+
+.Boton2 {
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 447px;
+    top: 900px;
+    background-color: #00669F;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.Seccion3 {
+    position: relative;
+    top:-102px;
+    left: 250px;
+}
+.Fondo3 {
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 692px;
+    top: 294px;
+    border-radius: 20px;
+}
+
+.Perfil3{
+    position: absolute;
+    width: 122px;
+    height: 120px;
+    left: 781px;
+    top: 420px;
+    border-radius: 70px;
+}
+
+.Titulo3{
+    position: absolute;
+    width: 122px;
+    height: 35px;
+    left: 781px;
+    top: 560px;
+    font-family: 'Benne',sans-serif;
+
+}
+.Texto3 {
+    position: absolute;
+    width: 267px;
+    height: 113px;
+    left: 708px;
+    top: 605px;
+    font-size: 20px;
+    font-family: 'Benne',sans-serif;
+}
+.Boton3 {
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 777px;
+    top: 900px;
+    background-color: #00669F;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.Pie {
+    position:absolute;
+    top: 972px;
+    background-color: #00669F;
+    width: 1350px;
+    height: 51px;
+    color: beige;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+
